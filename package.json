@@ -1,0 +1,15 @@
+{
+  "name": "studentidcard-backend",
+  "version": "1.0.0",
+  "description": "Backend application for Student ID Card creation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/.bin/nodemon bin/www"
+  },
+  "keywords": [
+    "nodejs",
+    "boilerplate"
+  ],
+  "author": "sraorajath@mail.com",
+  "license": "MIT"
+}
